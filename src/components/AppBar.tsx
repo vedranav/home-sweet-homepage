@@ -9,7 +9,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 import Button from "@mui/material/Button";
 import MenuItem from "@mui/material/MenuItem";
 
-const pages = ["Tutorials", "About Me"];
+const pages = ["About Me"];
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(
@@ -35,7 +35,7 @@ function ResponsiveAppBar() {
           sx={{
             mr: 3,
             ml: 2,
-            display: { xs: "flex", md: "flex" },
+            display: { xs: "flex", sm: "flex" },
             letterSpacing: ".0.5rem",
             color: "inherit",
             textDecoration: "none",
@@ -49,7 +49,7 @@ function ResponsiveAppBar() {
           noWrap
           sx={{
             mr: 5,
-            display: { xs: "none", md: "flex" },
+            display: { xs: "none", sm: "flex" },
             letterSpacing: ".0.5rem",
             color: "inherit",
             textDecoration: "none",
@@ -61,7 +61,7 @@ function ResponsiveAppBar() {
         <Box
           sx={{
             flexGrow: 1,
-            display: { xs: "flex", md: "none" },
+            display: { xs: "flex", sm: "none" },
             justifyContent: "flex-end",
             mr: 1,
           }}
@@ -91,7 +91,7 @@ function ResponsiveAppBar() {
             open={Boolean(anchorElNav)}
             onClose={handleCloseNavMenu}
             sx={{
-              display: { xs: "block", md: "none" },
+              display: { xs: "block", sm: "none" },
             }}
           >
             {pages.map((page) => (
@@ -104,7 +104,7 @@ function ResponsiveAppBar() {
         <Box
           sx={{
             flexGrow: 1,
-            display: { xs: "none", md: "flex" },
+            display: { xs: "none", sm: "flex" },
             justifyContent: "flex-end",
             mr: 2,
           }}

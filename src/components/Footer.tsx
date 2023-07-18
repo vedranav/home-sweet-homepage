@@ -13,7 +13,6 @@ function Footer() {
   return (
     <footer
       style={{
-        backgroundColor: "#FFF",
         padding: "1rem",
         display: "flex",
         justifyContent: "center",
@@ -27,14 +26,7 @@ function Footer() {
           alignItems: "center",
         }}
       >
-        <Typography
-          variant="body2"
-          align="center"
-          color="inherit"
-          sx={{ mr: 2 }}
-        >
-          &copy; {getCurrentYear()} Vedrana Vidulin
-        </Typography>
+        <img src="EM.png" alt="Image" />
         <div>
           <IconButton
             aria-label="LinkedIn"
@@ -61,6 +53,15 @@ function Footer() {
             <TwitterIcon />
           </IconButton>
         </div>
+        <Typography
+          variant="caption"
+          align="center"
+          color="inherit"
+          sx={{ mr: 2 }}
+          paddingTop={1.5}
+        >
+          &copy; {getCurrentYear()} Vedrana Vidulin
+        </Typography>
       </div>
     </footer>
   );
