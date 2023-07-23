@@ -9,9 +9,13 @@ import MenuIcon from "@mui/icons-material/Menu";
 import Button from "@mui/material/Button";
 import MenuItem from "@mui/material/MenuItem";
 
-const pages = ["About Me"];
+const pages = ["Home", "Publications"];
 
-function ResponsiveAppBar() {
+interface buttonProps {
+  onMenuButtonClick: (page: string) => void;
+}
+
+function ResponsiveAppBar({ onMenuButtonClick }: buttonProps) {
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(
     null
   );
@@ -22,6 +26,11 @@ function ResponsiveAppBar() {
 
   const handleCloseNavMenu = () => {
     setAnchorElNav(null);
+  };
+
+  const handlePageClick = (page: string) => {
+    handleCloseNavMenu();
+    onMenuButtonClick(page);
   };
 
   return (
@@ -95,7 +104,7 @@ function ResponsiveAppBar() {
             }}
           >
             {pages.map((page) => (
-              <MenuItem key={page} onClick={handleCloseNavMenu}>
+              <MenuItem key={page} onClick={() => handlePageClick(page)}>
                 <Typography textAlign="center">{page}</Typography>
               </MenuItem>
             ))}
@@ -112,7 +121,7 @@ function ResponsiveAppBar() {
           {pages.map((page) => (
             <Button
               key={page}
-              onClick={handleCloseNavMenu}
+              onClick={() => handlePageClick(page)}
               sx={{ my: 2, color: "white", display: "block" }}
             >
               {page}
