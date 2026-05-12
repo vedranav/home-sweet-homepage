@@ -3,6 +3,10 @@ name: Deploy React Site
 on:
   push:
     branches: ["main"]
+    paths-ignore:
+      - "README.md"
+      - "LICENSE"
+      - ".gitignore"
 
 permissions:
   contents: read
