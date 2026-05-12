@@ -1,7 +1,6 @@
-import { Typography, IconButton } from "@mui/material";
-import TwitterIcon from "@mui/icons-material/Twitter";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
+import { IconButton, Typography } from "@mui/material";
 
 function getCurrentYear(): number {
   const currentDate = new Date();
@@ -26,7 +25,7 @@ function Footer() {
           alignItems: "center",
         }}
       >
-        <img src="EM.png" alt="Image" />
+        <img src="img/EM.png" alt="Image" />
         <div>
           <IconButton
             aria-label="LinkedIn"
@@ -43,14 +42,6 @@ function Footer() {
             target="_blank"
           >
             <GitHubIcon />
-          </IconButton>
-          <IconButton
-            aria-label="Twitter"
-            color="inherit"
-            href="https://twitter.com/VedranaVidulin"
-            target="_blank"
-          >
-            <TwitterIcon />
           </IconButton>
         </div>
         <Typography

@@ -77,7 +77,7 @@ function Intro() {
         </Grid>
         <Grid item sm={12} md={5}>
           <img
-            src="Vedrana_Vidulin.jpg"
+            src="img/Vedrana_Vidulin.jpg"
             alt="Image"
             style={{ maxWidth: "100%", height: "auto", paddingTop: "20px" }}
           />

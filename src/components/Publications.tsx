@@ -18,15 +18,12 @@ function Publications() {
           link
         </a>{" "}
         |{" "}
-        <a
-          href="http://vedranavidulin.com/assets/publications/journals/s13059-019-1835-8.pdf"
-          target="_blank"
-        >
+        <a href="/publications/journals/s13059-019-1835-8.pdf" target="_blank">
           pdf
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/journals/s13059-019-1835-8-Supplementary_materials.zip"
+          href="/publications/journals/s13059-019-1835-8-Supplementary_materials.zip"
           target="_blank"
         >
           supplementary materials
@@ -42,10 +39,7 @@ function Publications() {
           link
         </a>{" "}
         |{" "}
-        <a
-          href="http://vedranavidulin.com/assets/publications/journals/j.ins.2019.07.009.pdf"
-          target="_blank"
-        >
+        <a href="/publications/journals/j.ins.2019.07.009.pdf" target="_blank">
           pdf
         </a>
       </p>
@@ -59,15 +53,12 @@ function Publications() {
           link
         </a>{" "}
         |{" "}
-        <a
-          href="http://vedranavidulin.com/assets/publications/journals/s40168-018-0506-4.pdf"
-          target="_blank"
-        >
+        <a href="/publications/journals/s40168-018-0506-4.pdf" target="_blank">
           pdf
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/journals/s40168-018-0506-4-Supplementary_materials.zip"
+          href="/publications/journals/s40168-018-0506-4-Supplementary_materials.zip"
           target="_blank"
         >
           supplementary materials
@@ -83,15 +74,12 @@ function Publications() {
           link
         </a>{" "}
         |{" "}
-        <a
-          href="http://vedranavidulin.com/assets/publications/journals/btw532.pdf"
-          target="_blank"
-        >
+        <a href="/publications/journals/btw532.pdf" target="_blank">
           pdf
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/journals/btw532-Supplementary_materials.pdf"
+          href="/publications/journals/btw532-Supplementary_materials.pdf"
           target="_blank"
         >
           supplementary materials
@@ -107,15 +95,12 @@ function Publications() {
           link
         </a>{" "}
         |{" "}
-        <a
-          href="http://vedranavidulin.com/assets/publications/journals/gkw964.pdf"
-          target="_blank"
-        >
+        <a href="/publications/journals/gkw964.pdf" target="_blank">
           pdf
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/journals/gkw964-Supplementary_materials.zip"
+          href="/publications/journals/gkw964-Supplementary_materials.zip"
           target="_blank"
         >
           supplementary materials
@@ -131,10 +116,7 @@ function Publications() {
           link
         </a>{" "}
         |{" "}
-        <a
-          href="http://vedranavidulin.com/assets/publications/journals/j.ins.2014.08.014.pdf"
-          target="_blank"
-        >
+        <a href="/publications/journals/j.ins.2014.08.014.pdf" target="_blank">
           pdf
         </a>
       </p>
@@ -155,7 +137,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/journals/Vidulin-Informatica-2013.pdf"
+          href="/publications/journals/Vidulin-Informatica-2013.pdf"
           target="_blank"
         >
           pdf
@@ -172,7 +154,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/journals/Vidulin-Gams-Applied_Artificial_Intelligence-2011.pdf"
+          href="/publications/journals/Vidulin-Gams-Applied_Artificial_Intelligence-2011.pdf"
           target="_blank"
         >
           pdf
@@ -190,7 +172,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/journals/Vidulin-Lustrek-Gams-JLCL-2009.pdf"
+          href="/publications/journals/Vidulin-Lustrek-Gams-JLCL-2009.pdf"
           target="_blank"
         >
           pdf
@@ -207,10 +189,7 @@ function Publications() {
           link
         </a>{" "}
         |{" "}
-        <a
-          href="http://vedranavidulin.com/assets/publications/journals/cit.1001137.pdf"
-          target="_blank"
-        >
+        <a href="/publications/journals/cit.1001137.pdf" target="_blank">
           pdf
         </a>
       </p>
@@ -230,7 +209,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/journals/Vidulin-Gams-Electrotechnical_Review-2006.pdf"
+          href="/publications/journals/Vidulin-Gams-Electrotechnical_Review-2006.pdf"
           target="_blank"
         >
           pdf
@@ -254,7 +233,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/978-3-030-61527-7_32.pdf"
+          href="/publications/proceedings/978-3-030-61527-7_32.pdf"
           target="_blank"
         >
           pdf
@@ -273,7 +252,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/978-3-319-78680-3_10.pdf"
+          href="/publications/proceedings/978-3-319-78680-3_10.pdf"
           target="_blank"
         >
           pdf
@@ -292,7 +271,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/978-3-319-71273-4_34.pdf"
+          href="/publications/proceedings/978-3-319-71273-4_34.pdf"
           target="_blank"
         >
           pdf
@@ -310,7 +289,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/Vidulin-Brbic-Supek-Smuc-MLLS-2016.pdf"
+          href="/publications/proceedings/Vidulin-Brbic-Supek-Smuc-MLLS-2016.pdf"
           target="_blank"
         >
           pdf
@@ -329,7 +308,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/978-3-319-24834-9_2.pdf"
+          href="/publications/proceedings/978-3-319-24834-9_2.pdf"
           target="_blank"
         >
           pdf
@@ -350,7 +329,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/Vidulin-Smuc-Supek-DS-2014.pdf"
+          href="/publications/proceedings/Vidulin-Smuc-Supek-DS-2014.pdf"
           target="_blank"
         >
           pdf
@@ -433,7 +412,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/Rehm_et_al-LREC-2008.pdf"
+          href="/publications/proceedings/Rehm_et_al-LREC-2008.pdf"
           target="_blank"
         >
           pdf
@@ -467,7 +446,7 @@ function Publications() {
         (pp. 45-51). RANLP 2007.
         <br />
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/Vidulin-Lustrek-Gams-RANLP-2007.pdf"
+          href="/publications/proceedings/Vidulin-Lustrek-Gams-RANLP-2007.pdf"
           target="_blank"
         >
           pdf
@@ -527,7 +506,7 @@ function Publications() {
         (pp. 99-102). ERK 2006.
         <br />
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/Vidulin_Filipic-ERK-2006.pdf"
+          href="/publications/proceedings/Vidulin_Filipic-ERK-2006.pdf"
           target="_blank"
         >
           pdf
@@ -543,14 +522,14 @@ function Publications() {
         at <em>Discovery Science</em>. Split, Croatia.
         <br />
         <a
-          href="http://vedranavidulin.com/assets/publications/posters/VidulinDzeroski-DS-2019-Poster.pdf"
+          href="/publications/posters/VidulinDzeroski-DS-2019-Poster.pdf"
           target="_blank"
         >
           poster
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/abstracts/VidulinDzeroski-DS-2019-Late-breaking-abstract.pdf"
+          href="/publications/abstracts/VidulinDzeroski-DS-2019-Late-breaking-abstract.pdf"
           target="_blank"
         >
           abstract
@@ -568,7 +547,7 @@ function Publications() {
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/abstracts/VidulinSmucDzeroskiSupek-ISMB-2019-Long_abstract.pdf"
+          href="/publications/abstracts/VidulinSmucDzeroskiSupek-ISMB-2019-Long_abstract.pdf"
           target="_blank"
         >
           abstract
@@ -596,7 +575,7 @@ function Publications() {
         multi-label classification. Talk at <em>IDEAL</em>. Wroclaw, Poland.
         <br />
         <a
-          href="http://vedranavidulin.com/assets/publications/presentations/IDEAL-Web-Genres-2015.pdf"
+          href="/publications/presentations/IDEAL-Web-Genres-2015.pdf"
           target="_blank"
         >
           presentation
@@ -610,14 +589,14 @@ function Publications() {
         <em>ISMB/ECCB</em>. Dublin, Ireland.
         <br />
         <a
-          href="http://vedranavidulin.com/assets/publications/posters/VidulinSmucSupek-ISMB-ECCB-2015-Poster.pdf"
+          href="/publications/posters/VidulinSmucSupek-ISMB-ECCB-2015-Poster.pdf"
           target="_blank"
         >
           poster
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/abstracts/VidulinSmucSupek-ISMB-ECCB-2015-abstract.pdf"
+          href="/publications/abstracts/VidulinSmucSupek-ISMB-ECCB-2015-abstract.pdf"
           target="_blank"
         >
           abstract
@@ -638,14 +617,14 @@ function Publications() {
         <em>Discovery Science</em>. Bled, Slovenia.
         <br />
         <a
-          href="http://vedranavidulin.com/assets/publications/posters/VidulinSmucSupek-DS2014-Poster.pdf"
+          href="/publications/posters/VidulinSmucSupek-DS2014-Poster.pdf"
           target="_blank"
         >
           poster
         </a>{" "}
         |{" "}
         <a
-          href="http://vedranavidulin.com/assets/publications/proceedings/Vidulin-Smuc-Supek-DS-2014.pdf"
+          href="/publications/proceedings/Vidulin-Smuc-Supek-DS-2014.pdf"
           target="_blank"
         >
           abstract
@@ -660,10 +639,7 @@ function Publications() {
         machine learning, PhD Thesis, Jožef Stefan International Postgraduate
         School, Ljubljana, Slovenia.
         <br />
-        <a
-          href="http://vedranavidulin.com/assets/publications/theses/Vidulin-PhD.pdf"
-          target="_blank"
-        >
+        <a href="/publications/theses/Vidulin-PhD.pdf" target="_blank">
           pdf
         </a>
       </p>
