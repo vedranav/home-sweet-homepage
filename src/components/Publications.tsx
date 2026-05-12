@@ -404,10 +404,7 @@ function Publications() {
         </em>
         . LREC 2008.
         <br />
-        <a
-          href="http://lrec.elra.info/proceedings/lrec2008/summaries/94.html"
-          target="_blank"
-        >
+        <a href="https://lrec.elra.info/lrec2008-main-048" target="_blank">
           link
         </a>{" "}
         |{" "}
@@ -600,13 +597,6 @@ function Publications() {
           target="_blank"
         >
           abstract
-        </a>{" "}
-        |{" "}
-        <a
-          href="https://www.iscb.org/cms_addon/conferences/ismbeccb2015/posterlist.php?cat=E"
-          target="_blank"
-        >
-          link
         </a>
       </p>
 
